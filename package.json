@@ -1,0 +1,19 @@
+{
+  "name": "1dv610-l1",
+  "version": "1.0.0",
+  "description": "Assignment L1 for 1dv610",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakariasB/1dv610-L1.git"
+  },
+  "author": "Zakarias Bergcrona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakariasB/1dv610-L1/issues"
+  },
+  "homepage": "https://github.com/ZakariasB/1dv610-L1#readme"
+}
