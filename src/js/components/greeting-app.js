@@ -34,9 +34,11 @@ customElements.define('greeting-app',
           Hello, ${username}!
           Here's a cat for you:
 
- /\_/\  
-( o.o ) 
-> ^ <
+             /\\_/\\  (
+            ( ^.^ ) _)
+              \\"/  (
+            ( | | )
+           (__d b__)
             `
             this.shadowRoot.getElementById('greetingDisplay').textContent = greeting;
       })
